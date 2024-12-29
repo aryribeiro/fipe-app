@@ -117,7 +117,7 @@ if st.sidebar.button("Consultar preço"):
     else:
         st.error("Não foi possível obter os dados. Tente novamente.")
 
-# Rodapé com informações de contato (em vermelho)
+# informações de contato
 st.markdown("""
 ---
 #### Consulta Tabela FIPE
